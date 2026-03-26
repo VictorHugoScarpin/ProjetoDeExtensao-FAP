@@ -1,2 +1,2 @@
-"Esta ‚ a minha primeira frase no Git!" 
-"Aqui est  uma nova frase adicionada ao arquivo." 
+"A minha primeira frase no Git!" 
+"Aqui esta uma nova frase adicionada ao arquivo." 
